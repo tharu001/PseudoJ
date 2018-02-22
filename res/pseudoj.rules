@@ -1,0 +1,17 @@
+##keywords must be separated with $ symbol!!!
+
+#reserved keywords
+
+variable$var$property$attribute$method$new$field$	@	reserved
+
+#word seperators
+
+,$and$or$	@	seperators
+
+#assignments
+
+=$equals$to$assign$	@	assignment
+
+#variable declearations
+
+declare$initialize$create$variable$property$assign$	@	variable_dec
